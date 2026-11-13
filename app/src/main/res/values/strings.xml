@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">রক্তবীজ মহাকাব্য</string>
+    <string name="epic_subtitle">কালসর্পের পঞ্চবলয়</string>
+    <string name="hero_badge">A BENGALI DARK EPIC · COMPLETE MANUSCRIPT</string>
+    <string name="hero_description">বঙ্গ-আবর্তের প্রাচীন অভিশাপ, পাঁচ মহাজাগতিক স্ফটিক অঙ্গুরীয়, গৌড়ের রাজবংশ, রসাতলের নাগবংশ, পিশাচকুল, বৃক-যোদ্ধা, ড্রাগন, রক্তচুক্তি এবং সাম্রাজ্য-পরিবর্তনের পূর্ণ পাণ্ডুলিপি—একটি সুসংগঠিত পাঠ-ড্যাশবোর্ডে।</string>
+    <string name="nav_overview">সারসংক্ষেপ</string>
+    <string name="nav_world">ভূগোল</string>
+    <string name="nav_cast">চরিত্র ও কোডেক্স</string>
+    <string name="nav_reader">পাণ্ডুলিপি</string>
+    <string name="action_continue_reading">পাঠ শুরু / অব্যাহত রাখুন</string>
+    <string name="action_toc">খণ্ড সূচিপত্র</string>
+    <string name="action_export_txt">মূল TXT সংরক্ষণ</string>
+    <string name="action_share_txt">TXT শেয়ার</string>
+    <string name="action_print">প্রিন্ট / PDF</string>
+    <string name="action_focus_mode">পাঠ-মোড</string>
+    <string name="action_exit_focus">পাঠ-মোড ত্যাগ</string>
+    <string name="search_placeholder">পাণ্ডুলিপিতে খুঁজুন (যেকোনো বাংলা শব্দ, চরিত্র বা খণ্ড)...</string>
+    <string name="cd_hero_banner">রক্তবীজ মহাকাব্যের গৌড় দুর্গ ও কালসর্পের পঞ্চবলয় চিত্র</string>
+    <string name="cd_world_map">বঙ্গ-আবর্ত মহাদেশের মানচিত্র</string>
+    <string name="cd_dragons">কালান্তক অগ্নি ড্রাগন ও নীল-নাগ তুষার ড্রাগন</string>
+    <string name="cd_back">ফিরে যান</string>
+    <string name="cd_search">খুঁজুন</string>
+    <string name="cd_clear_search">খোঁজ মুছুন</string>
+    <string name="cd_prev_match">পূর্ববর্তী ফলাফল</string>
+    <string name="cd_next_match">পরবর্তী ফলাফল</string>
+    <string name="cd_font_decrease">ফন্ট ছোট করুন</string>
+    <string name="cd_font_increase">ফন্ট বড় করুন</string>
+    <string name="cd_theme_picker">থিম পরিবর্তন করুন</string>
+    <string name="cd_bookmark">বুকমার্ক</string>
+</resources>

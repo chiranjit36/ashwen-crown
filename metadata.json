@@ -1,0 +1,8 @@
+{
+  "name": "রক্তবীজ মহাকাব্য",
+  "description": "রক্তবীজ মহাকাব্য: কালসর্পের পঞ্চবলয় — ২০টি খণ্ড, পঞ্চ-বলয়, বঙ্গ-আবর্তের ভূগোল, চরিত্র কোডেক্স ও পূর্ণাঙ্গ বাংলা পাণ্ডুলিপি পাঠ-ড্যাশবোর্ড।",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
